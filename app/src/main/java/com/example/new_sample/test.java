@@ -5,6 +5,15 @@ public class test {
     private int age;
     private  int roll;
     private int marks;
+    private  int test;
+
+    public int getTest() {
+        return test;
+    }
+
+    public void setTest(int test) {
+        this.test = test;
+    }
 
     public int getMarks() {
         return marks;
