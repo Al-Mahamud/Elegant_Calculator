@@ -5,7 +5,7 @@ public class test1 {
     private int a;
 
     public int getA() {
-        return a;
+        return b;
     }
 
     public void setA(int a) {
