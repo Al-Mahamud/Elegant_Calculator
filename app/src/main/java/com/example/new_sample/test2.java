@@ -2,7 +2,7 @@ package com.example.new_sample;
 
 public class test2 {
     private string name;
-    private int roll;
+    private double roll;
 
     public string getName() {
         return name;
